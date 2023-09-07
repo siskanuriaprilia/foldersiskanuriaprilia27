@@ -1,0 +1,6 @@
+public  class jawabanjobsheet2 {
+
+    public static void main(String[] args) {
+        System.out.println(x:"Siska Nuri Aprilia cantikkk");
+    }
+}
